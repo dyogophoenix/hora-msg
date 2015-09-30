@@ -1,5 +1,5 @@
 # `Hora MSG`
-O **Hora MSG** é um simples script em JAVASCRIPT que foi criado para ajudar aqueles que desejam colocar uma mensagem de acordo com o horário em que o visitante acessar sua página.
+O **Hora MSG** é um script em JAVASCRIPT que foi criado para ajudar aqueles que desejam colocar uma mensagem de acordo com o horário em que o visitante acessar sua página.
 
 Para utilizá-lo você precisará inserir os seguintes códigos no HTML da sua página:
 
