@@ -11,7 +11,7 @@ Para utilizá-lo você precisará inserir os seguintes códigos no HTML da sua p
 </script>
 ```
 
-Depois que inserir os códigos acima, crie um ou mais elementos com a classe " **.msg-hora** " como mostrado abaixo:
+Depois que inserir os códigos acima, crie um ou mais elementos com a classe " **.hora-msg** " como mostrado abaixo:
 
 ```html
 <span class="hora-msg">Bem-vindo</span> visitante !
