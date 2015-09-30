@@ -5,7 +5,7 @@ Para utilizá-lo você precisará inserir os seguintes códigos no HTML da sua p
 
 ```html
 <!-- Scripts devem ser colocados acima do </body> -->
-<script src="./hora-msg.js"></script>
+<script src="./hora-msg.min.js"></script>
 <script>
   new horaMSG(); // new horaMSG('.hora-msg');
 </script>
