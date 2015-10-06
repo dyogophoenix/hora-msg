@@ -28,8 +28,7 @@ new horaMSG( container, {
 	Madrugada : 'Boa Madrugada', // Mensagem exibida de 00:00 até ás 04:59
 	Dia       : 'Bom dia',       // Mensagem exibida de 05:00 até ás 11:59
 	Tarde     : 'Boa tarde',     // Mensagem exibida de 12:00 até ás 17:59
-	Noite     : 'Boa noite',     // Mensagem exibida de 18:00 até ás 23:59
-}
+	Noite     : 'Boa noite'     // Mensagem exibida de 18:00 até ás 23:59
 });
 </script>
 ```
